@@ -1,8 +1,7 @@
 function main() {
-    // Only change code bellow this line
-var forCat;
-    //Only change code above this line
-
+  // Only change code bellow this line
+  var forCat;
+  //Only change code above this line
 }
 
 console.log(main());
